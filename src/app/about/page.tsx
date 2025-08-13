@@ -7,9 +7,8 @@ export default function About() {
       <Navbar />
       <main className="container mx-auto px-4 py-10">
         <h1 className="text-4xl font-bold mb-6">About Me</h1>
-        {/* eslint-disable-next-line react/no-unescaped-entities */}
         <p className="text-lg text-gray-700 mb-4">
-          Hi, I'm Acef Laatiri, a passionate Software Developer with experience in building modern web applications using Next.js, React, and Tailwind CSS. I love turning ideas into clean, efficient, and interactive digital experiences.
+          Hi, I am Acef Laatiri, a passionate Software Developer with experience in building modern web applications using Next.js, React, and Tailwind CSS. I love turning ideas into clean, efficient, and interactive digital experiences.
         </p>
         <p className="text-lg text-gray-700 mb-4">
           My journey in programming started with Python and web development, and over time I expanded into full-stack development. I enjoy learning new technologies, solving challenging problems, and continuously improving my skills.
